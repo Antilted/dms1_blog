@@ -12,4 +12,4 @@ allow_math: true
 
 Week 1 session 1
 
-![Sacavenger hunt](static/w1s1/IMG_2272.jpg)
+![Sacavenger hunt](w1s1/IMG_2272.jpg)

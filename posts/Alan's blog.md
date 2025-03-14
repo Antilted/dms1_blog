@@ -6,7 +6,8 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-#This is the 30s vid
+# This is the 30s vid
 
-![The vid](static/w1s1_/video_blog.mp4)
+Week 1 session 1
 
+![Sacavenger hunt](static/w1s1/IMG_2272.jpg)

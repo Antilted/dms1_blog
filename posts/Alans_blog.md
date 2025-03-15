@@ -12,4 +12,22 @@ allow_math: true
 
 Week 1 session 1
 
-![Sacavenger hunt](w1s1/IMG_2272.jpg)
+![Scavenger_hunt](w1s1/IMG_2272.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2269.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2271.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2274.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2275.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2276.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2277.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2280.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2284.jpg)
+
+![Scavenger_hunt](w1s1/IMG_2286.jpg)

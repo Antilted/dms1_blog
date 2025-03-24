@@ -8,4 +8,4 @@ allow_math: true
 
 # The storyboard
 
-![Storyboard](story_board/story board.jpg)
+![Storyboard](story_board/story_board.jpg)

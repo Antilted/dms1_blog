@@ -1,13 +1,13 @@
 ---
 title: This is a week 1 session 2 !
-published_at: 2025-03-06
+published_at: 2025-03-24
 snippet: Homework task 
 disable_html_sanitization: true
 allow_math: true
 ---
-#This is the 30s video
+# This is the 30s video edited with another footage
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mhorJwR7TOA?si=aQDQXx5jvk9xX3c3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZF_HSfNZ5t4?si=Vgh2i-gRCeUmoBAC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # My aim
 

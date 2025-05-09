@@ -42,7 +42,7 @@ After selecting what GameObjects you want to edit the properties on you can go t
 
 We were explained the fundamental basics about Unity from how to add an object or basic shapes in this case and how to import texture and add them to the object. I learned first by creating a material and importing a texture to it thourgh th Albedo option in the inspector panel. Then i just dragged the texutre to the object, there's also options to materialize the texture such as: cast shadows, Metallic, etc. The activity was the recreate the solar system, i had a bit of trouble getting the texture in is it keeps turning pink but after a while i was able to get texture because the problem is that i haven't included the texture n the material yet. We the were task to add a sky box which is the same method but the only difference is adding a skybox component to what i need to add the texture too. This is the result from what i was able to accomplish during the activity.
 
-![Solar_system](static/w7s1/solar.jpg)
+![Solar_system](w7s1/solar.jpg)
 
 I wasnt able to get the ring on Saturn tho, i think there is a mask method but maybe it requires extra steps to get it working.
 

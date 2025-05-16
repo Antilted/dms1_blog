@@ -14,7 +14,7 @@ It's getting to the finalisation of all of our assignments. Today not much is le
 
 Here this web publisher thing is an additional asset or addon the must be downloaded in the Unity registery section like this
 
-![Webgl_publisher](w9s1/web pub.jpg)
+![Webgl_publisher](w9s1/web_pub.jpg)
 
 After we download the asset we must click on Publish->WebGl project->Build and run. This i learned might take a while because of the amount of rendering through 3D models and scripts. I've also learned that you can adjust the settings of the build in the Player settings. 
 

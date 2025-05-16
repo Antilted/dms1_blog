@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Intriduction
+# Introduction
 
 Today, another familiar and ovegone agenda reappeared that is SOUNDS. I have got the chance to learn sounds in the first and second assingment but for this time we are focusing on a more 3D sound base and its physics. In class we get to see some esamples of how vital sound is to a good scene, it sets the mood and it even excites the player as well. An activity was also handed out to us on Unity that we add sounds to our scene to make it more impactful.
 

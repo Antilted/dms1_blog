@@ -20,10 +20,12 @@ Here Mr.Thomas talked us through how evaluating our own work or let others evalu
 
 # Assignment 1
 
-Here i got a blast in the past with the first assignment and Mr.Thomas has prepared some questions so that we could answer but i would like just to go over everything as a brief because some things said might be repetitive and long.
-
-How did you approach the relationship between sonic and visual components of your edit?
+Here i got a blast in the past with the first assignment and Mr.Thomas has prepared some questions so that we could answer but i would like just to go over everything as a brief because some things said might be repetitive and long
 
 Basically i just planned out a specific and consistent vibe that goes thorughout in my video which is a calm and peacful vibe because when i first arrived in Melbourne everything seems to be very calm not much busy and noisy things happening at that time. Coming from that i basically chose and compose a few songs that screams chill and calm mood. As for the visual compoments basically i just try to get a good lighting in the scene and try to mix between a warm and cold tone.
 
-The footage are also puposely filmed like a vlogging style to give the audience a sense of friendliness and amatuer from me yet this still gives out a good amount of information for the people watching my video. The footage are linked together through footsteps scenes as i want to showcase a meaning of the steps of my journey
+The footage are also puposely filmed like a vlogging style to give the audience a sense of friendliness and amatuer from me yet this still gives out a good amount of information for the people watching my video. The footage are linked together through footsteps scenes as i want to showcase a meaning of the steps of my journey. 
+
+The editing technqiues used in my video are mostly light leaks that matches the clip and to add a more vibrant feel to it. Also I've tested some opacity overlays between some different clips to give a more pressurized feeling while watching for the audience. 
+
+For sounds i bascially just use two audio source because I could just cut out some parts in the audio and just mix match them under the video so that they fit and clearly describe what's going on 

@@ -40,4 +40,13 @@ For sounds i basically just take the sounds that is already there in the game an
 
 # Assignment 3
 
-When presented with this project I needed to really put an effirt into this because Im not really familiar with 3D design and scripting in general. 
+When presented with this project I needed to really put an effort into this because Im not really familiar with 3D design and scripting in general. I first took a look at some ideas and I have decided to do a chase gameplay style through out my entire game. For me terraining is the easiest because most of my scenes will be mountain terrains, texturing is not that big of a problem because I was able to find a very good asset pack on Unity store for ground textures. Adding little details such as fog, skybox, trees and other vegetations is a little time consuming because they can't just be spammed everywhere and still look good like painting textures.
+
+Finding the right 3D models and writing a good script for the behaviors proves to be the hardest and time consuming thing for this project. The problems with the models are sometimes they are broken and cannot be imported, another big problem is that the models are rotated or positioned in a way that doesn't fit the default axis of Unity which leads to further problem in scripting. I had to try making some models walk backwards to make it seem like they are moving forward because of the wrong axis and also I had to add more elements into the player scirpt that was provided by Mr.Thomas to make the player have a more free range of control.
+
+# Assingment 4 status
+
+In this assingment I'm leaning towards a more minimalistic style which minimal words and mostly pictures to show my progress. The main color for my web design would be black with little blurred out colors to give a spot for my other elements to standout. The website will mainly be talking about how i did my projects and a brief describtion of my assingments. Right now nothing much is going on but I will put in a bit more effort on how to place and composite my website further on.
+
+Thats all for today
+Alan

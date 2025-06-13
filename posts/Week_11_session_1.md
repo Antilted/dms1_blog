@@ -28,4 +28,7 @@ Right now I've finished doing my answers and making text for the web design, I t
 
 ![Templates](w10s2/tempaltes.png)
 
-I tried going for a light theme at first but again like Discord's light mode it hurts my eyes, especially when i do most of my work at night time so black is what i chose.
+I tried going for a light theme at first but again like Discord's light mode it hurts my eyes, especially when I do most of my work at night time so black is what I chose.
+
+Thats all for today
+Alan
